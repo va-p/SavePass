@@ -1,5 +1,5 @@
-import styled from 'styled-components/native';
 import { FlatList, FlatListProps } from 'react-native';
+import styled from 'styled-components/native';
 
 import { RFValue } from 'react-native-responsive-fontsize';
 
